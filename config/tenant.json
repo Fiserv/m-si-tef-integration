@@ -29,7 +29,7 @@
     "documenttree": "/v1/docs/mSiTefIntegration",
     "documenttreeV2": "/v2/docs/mSiTefIntegration",
     "docsCount": "/v2/docs/count/mSiTefIntegration",
-    "sandbox": "/v2/sandboxrun/mSiTefIntegration",
+    "sandbox": "/v1/sandboxrun/mSiTefIntegration",
     "accessConfig": "/v1/fileAccess/mSiTefIntegration",
     "assets": "/v1/assets/mSiTefIntegration",
     "feature": [
